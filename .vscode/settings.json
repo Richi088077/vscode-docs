@@ -3,6 +3,7 @@
   "git.branchProtection": [
     "main"
   ],
+
   "git.branchProtectionPrompt": "alwaysCommitToNewBranch",
   "editor.wordWrap": "on",
     "files.eol": "\n",
